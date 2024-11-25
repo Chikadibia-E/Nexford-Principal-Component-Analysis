@@ -8,6 +8,8 @@ Ensure you have the following Python packages installed:
 - `scikit-learn`
 - `matplotlib`
 
+The Python script can be run on any Python IDE.
+
 You can install these packages using pip:
 ```bash
 pip install numpy pandas scikit-learn matplotlib
